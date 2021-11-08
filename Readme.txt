@@ -18,21 +18,21 @@
    
 
   homework1   - файлы: Calculator.java, Add.java, Multi.java, Oper.java;  
-  homework1_1 - файлы: Calculator.java;
-  homework2   - файлы: Calculator.java;
+  homework2 - файлы: Calculator.java;
   homework3   - файлы: Calculator.java;
-  homework4   - файлы: Calculator.java, Oper.java;
+  homework4   - файлы: Calculator.java;
+  homework5   - файлы: Calculator.java, Oper.java;
 
 
 
   —остав пакетов
   --------------
 
-  homework1_1 - написание простой программы с наличием пакета;
-  homework1   - добавлен абстрактый класс;
-  homework2   - добавлен внутренний класс;
-  homework3   - добавлены анонимные классы;
-  homework4   - добалены л€бда-выражени€.
+  homework1 - написание простой программы с наличием пакета;
+  homework2   - добавлен абстрактый класс;
+  homework3   - добавлен внутренний класс;
+  homework4   - добавлены анонимные классы;
+  homework5   - добалены л€бда-выражени€.
 
   
 
